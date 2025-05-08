@@ -17,7 +17,6 @@ int main(){
 	//NewNumber num;
 	//int b;
 	//b = num.newNumber("test.txt",sizeof(Student));
-	//s.auxiliar(b,"Zenilda","Calueto",24,"Femenino","Fisica","20-FP-2",2);
 	//a.registers("test.txt",s);
 	//a.list("test.txt",s);
 	return 0;
